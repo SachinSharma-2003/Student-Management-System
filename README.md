@@ -1,31 +1,39 @@
-```markdown
-# 🎓 Student Management System – Java Console Application
-
-This is a **Java-based console application** for managing student records. The system allows you to add, search, and display student information such as name, registration number, and department. It serves as a beginner-friendly project to understand object-oriented programming, user input handling, and collection usage in Java.
+# Student Management System – Java Console Application
 
 ---
 
-## ✨ Features
+### Overview
 
-- 📥 Add student details (Name, Reg. No, Department)
-- 🔄 Prevent duplicate entries based on registration number
-- 📃 Display individual student records
-- 📋 View all student entries
-- 🔎 Search student by name (case-insensitive)
-- 🛑 Input validation and error handling
-- 🚪 Clean and safe program exit
+This is a **Java-based console application** designed to manage student records efficiently. It allows users to add, search, and display student information such as name, registration number, and department. This project is ideal for beginners learning:
+
+- Object-Oriented Programming (OOP)
+- Java collections (`ArrayList`)
+- User input handling with `Scanner`
+- Basic CLI-based application design
 
 ---
 
-## 🛠️ Tech Stack
+### Features
+
+- Add student details (Name, Reg. No, Department)
+- Prevent duplicate entries based on registration number
+- Display individual student records
+- View the complete student list
+- Search student by name (case-insensitive)
+- Input validation and error handling
+- Clean and safe program exit
+
+---
+
+### Tech Stack
 
 - **Language**: Java (JDK 8 or higher)
 - **Interface**: Command-Line Interface (CLI)
-- **Data Structure**: `ArrayList` for dynamic storage of student records
+- **Data Storage**: `ArrayList`
 
 ---
 
-## 📂 Project Structure
+### Project Structure
 
 ```
 student-management-system/
@@ -35,14 +43,14 @@ student-management-system/
 
 ---
 
-## 🚀 Getting Started
+### Getting Started
 
-### ✅ Prerequisites
+#### Prerequisites
 
-- Java JDK 8 or above installed
-- A terminal or command prompt
+- Java JDK 8 or higher installed
+- Any Java IDE (IntelliJ, Eclipse) or terminal
 
-### 🧾 Steps to Run
+#### How to Run
 
 1. **Clone the repository**
 
@@ -65,7 +73,7 @@ student-management-system/
 
 ---
 
-## 📸 Sample Menu Output
+### Sample Console Output
 
 ```
 ===== Student Management System =====
@@ -79,25 +87,21 @@ Enter your choice:
 
 ---
 
-## 🙏 Acknowledgement
+### Acknowledgement
 
-I would like to express my sincere gratitude to my mentor **Gokul Raguvaran** for his continuous guidance and support throughout the development of this project.
-
----
-
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
+I would like to express my sincere gratitude to my mentor **Gokul** for his continuous guidance and support throughout the development of this project.
 
 ---
 
-## 📬 Feedback & Contributions
+
+### Feedback & Contributions
 
 If you have suggestions to improve this project or want to contribute:
+
 - ⭐ Star this repository
-- 🐛 Submit issues for bugs
-- 🔧 Open a pull request with enhancements
+- 🐛 Report bugs via Issues
+- 🔧 Submit a Pull Request
 
 ---
-Made with ❤️ using Java
-```
+
+
